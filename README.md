@@ -8,3 +8,5 @@ This is a basic static college website project.
 
 ##Technology
 -HTML
+Departments: IT,Computer Enginnering, Electronics
+Admissions: Open for eligible students
